@@ -1,2 +1,2 @@
 # mortgage-ie
-Sctipt
+The script is not mine
